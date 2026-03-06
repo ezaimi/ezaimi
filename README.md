@@ -1,68 +1,78 @@
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:4f46e5,100:0ea5e9&height=220&section=header&text=Era&fontSize=50&fontAlignY=35&animation=fadeIn&fontColor=ffffff" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:ff00cc,100:333399&height=230&section=header&text=Era%20Zaimi&fontSize=50&fontAlignY=38&animation=fadeIn&fontColor=ffffff"/>
 
-# 👋 Hello
+<p align="center">
+<img src="https://readme-typing-svg.herokuapp.com/?font=Fira+Code&size=26&duration=3000&pause=1000&color=F472B6&center=true&vCenter=true&width=700&lines=Software+Engineer;UI%2FUX+Enthusiast;Building+clean+and+modern+web+applications" />
+</p>
 
-I'm **Era**, a developer who enjoys building well-structured software and designing clean, intuitive user experiences.
+---
 
-I like working at the intersection of **engineering and design**, turning ideas into reliable and thoughtful digital products.
+# 👋 About
+
+I'm **Era**, a developer who enjoys building **well-structured software** and designing **clean user experiences**.
+
+I like working where **engineering meets design**, creating modern, scalable, and intuitive digital products.
 
 ---
 
 # ⚡ Tech Stack
 
-### Languages
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
-![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-
-### Frontend & Backend
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react)
-![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js)
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white)
-![Express](https://img.shields.io/badge/Express-000000?style=for-the-badge&logo=express)
-
-### Databases
-![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)
-
-### Design
-![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
-![AdobeXD](https://img.shields.io/badge/AdobeXD-FF61F6?style=for-the-badge&logo=adobe-xd&logoColor=white)
+<p align="center">
+<img src="https://skillicons.dev/icons?i=js,ts,java,python,react,nextjs,nodejs,express,mongodb,postgres,figma&perline=6" />
+</p>
 
 ---
 
 # 🚀 Focus
 
-- Full-stack web development  
-- Building scalable systems and APIs  
-- UI / UX design and clean interfaces  
-- Modern interactive web applications  
-
----
-
-# 🌱 Currently Exploring
-
-- Advanced **React / Next.js architecture**
-- **Cloud infrastructure** and scalable systems
-- **AI-driven applications**
+- Full-stack development  
+- Scalable system design  
+- UI / UX design  
+- Interactive modern web applications  
 
 ---
 
 # 📊 GitHub Stats
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight&hide_border=true"/>
+<p align="center">
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=tokyonight&hide_border=true"/>
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=ezaimi&show_icons=true&theme=tokyonight&hide_border=true&border_radius=10"/>
 
----
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ezaimi&layout=compact&theme=tokyonight&hide_border=true&border_radius=10"/>
 
-# 📈 Activity
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=YOUR_USERNAME&theme=tokyo-night" />
+</p>
 
 ---
 
-✨ **Building software where clean code meets thoughtful design.**
+# 📈 Contribution Graph
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:4f46e5,100:0ea5e9&height=120&section=footer"/>
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=ezaimi&theme=tokyo-night&hide_border=true"/>
+
+---
+
+# 🐍 Contribution Snake
+
+<img src="https://raw.githubusercontent.com/ezaimi/ezaimi/output/github-contribution-grid-snake.svg"/>
+
+---
+
+# 🌐 Connect
+
+<p align="center">
+
+<a href="https://linkedin.com">
+<img src="https://skillicons.dev/icons?i=linkedin"/>
+</a>
+
+<a href="mailto:your@email.com">
+<img src="https://skillicons.dev/icons?i=gmail"/>
+</a>
+
+</p>
+
+---
+
+<p align="center">
+✨ Building software where clean code meets thoughtful design
+</p>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:ff00cc,100:333399&height=120&section=footer"/>
