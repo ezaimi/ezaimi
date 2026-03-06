@@ -6,44 +6,23 @@
 
 ---
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:ff00cc,100:8b5cf6&height=70&section=header&text=About%20Me&fontSize=28&fontColor=ffffff&animation=fadeIn"/>
+# 👋 About
 
-I'm **Era**, a developer who enjoys building **well-structured software** and designing **clean user experiences**.
+I'm **Era Zaimi**, a developer who enjoys building **well-structured software** and designing **clean user experiences**.
 
 I like working where **engineering meets design**, creating modern, scalable, and intuitive digital products.
 
 ---
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:8b5cf6,100:3b82f6&height=70&section=header&text=Tech%20Stack&fontSize=28&fontColor=ffffff&animation=fadeIn"/>
+# ⚡ Tech Stack
 
 <p align="center">
-
-<img src="https://img.shields.io/badge/JavaScript-111827?style=for-the-badge&logo=javascript&logoColor=F7DF1E&labelColor=111827&color=1f2937"/>
-<img src="https://img.shields.io/badge/TypeScript-111827?style=for-the-badge&logo=typescript&logoColor=3178C6&labelColor=111827&color=1f2937"/>
-<img src="https://img.shields.io/badge/Java-111827?style=for-the-badge&logo=openjdk&logoColor=ED8B00&labelColor=111827&color=1f2937"/>
-<img src="https://img.shields.io/badge/Python-111827?style=for-the-badge&logo=python&logoColor=3776AB&labelColor=111827&color=1f2937"/>
-
-<br>
-
-<img src="https://img.shields.io/badge/React-111827?style=for-the-badge&logo=react&logoColor=61DAFB&labelColor=111827&color=1f2937"/>
-<img src="https://img.shields.io/badge/Next.js-111827?style=for-the-badge&logo=next.js&logoColor=ffffff&labelColor=111827&color=1f2937"/>
-<img src="https://img.shields.io/badge/Node.js-111827?style=for-the-badge&logo=node.js&logoColor=339933&labelColor=111827&color=1f2937"/>
-<img src="https://img.shields.io/badge/Express-111827?style=for-the-badge&logo=express&logoColor=ffffff&labelColor=111827&color=1f2937"/>
-
-<br>
-
-<img src="https://img.shields.io/badge/MongoDB-111827?style=for-the-badge&logo=mongodb&logoColor=47A248&labelColor=111827&color=1f2937"/>
-<img src="https://img.shields.io/badge/PostgreSQL-111827?style=for-the-badge&logo=postgresql&logoColor=4169E1&labelColor=111827&color=1f2937"/>
-
-<br>
-
-<img src="https://img.shields.io/badge/Figma-111827?style=for-the-badge&logo=figma&logoColor=F24E1E&labelColor=111827&color=1f2937"/>
-
+<img src="https://skillicons.dev/icons?i=js,ts,java,python,react,nextjs,nodejs,express,mongodb,postgres,figma&perline=6" />
 </p>
 
 ---
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:3b82f6,100:06b6d4&height=70&section=header&text=Focus%20Areas&fontSize=28&fontColor=ffffff&animation=fadeIn"/>
+# 🚀 Focus
 
 - Full-stack development  
 - Scalable system design  
@@ -52,16 +31,16 @@ I like working where **engineering meets design**, creating modern, scalable, an
 
 ---
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:06b6d4,100:22c55e&height=70&section=header&text=Connect&fontSize=28&fontColor=ffffff&animation=fadeIn"/>
+# 🌐 Connect
 
 <p align="center">
 
 <a href="https://linkedin.com">
-<img src="https://img.shields.io/badge/LinkedIn-111827?style=for-the-badge&logo=linkedin&logoColor=0A66C2&labelColor=111827&color=1f2937"/>
+<img src="https://skillicons.dev/icons?i=linkedin"/>
 </a>
 
 <a href="mailto:your@email.com">
-<img src="https://img.shields.io/badge/Email-111827?style=for-the-badge&logo=gmail&logoColor=EA4335&labelColor=111827&color=1f2937"/>
+<img src="https://skillicons.dev/icons?i=gmail"/>
 </a>
 
 </p>
