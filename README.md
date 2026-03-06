@@ -18,32 +18,6 @@ I like working where **engineering meets design**, creating modern, scalable, an
 <img src="https://skillicons.dev/icons?i=js,ts,java,python,react,nextjs,nodejs,express,mongodb,postgres,figma,illustrator&perline=6" />
 </p>
 
----
-
-# 🚀 Focus
-
-- Full-stack development  
-- Scalable system design  
-- UI / UX design  
-- Interactive modern web applications  
-
----
-
-# 🌐 Connect
-
-<p align="center">
-
-<a href="https://linkedin.com">
-<img src="https://skillicons.dev/icons?i=linkedin"/>
-</a>
-
-<a href="mailto:your@email.com">
-<img src="https://skillicons.dev/icons?i=gmail"/>
-</a>
-
-</p>
-
----
 
 <p align="center">
 ✨ Building software where clean code meets thoughtful design
