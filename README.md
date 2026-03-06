@@ -4,15 +4,15 @@
 
 ---
 
-# 👋 About
+# About
 
-I'm **Era Zaimi**, a developer who enjoys building **well-structured software** and designing **clean user experiences**.
+I'm **Era**, a developer who enjoys building **well-structured software** and designing **clean user experiences**.
 
 I like working where **engineering meets design**, creating modern, scalable, and intuitive digital products.
 
 ---
 
-# ⚡ Tech Stack
+# Tech Stack
 
 <p align="center">
 <img src="https://skillicons.dev/icons?i=js,ts,java,python,react,nextjs,nodejs,express,mongodb,postgres,figma,illustrator&perline=6" />
